@@ -1,0 +1,90 @@
+body{
+
+
+}
+
+h1{
+    font-family: monospace;
+    font-size: small;
+    margin: auto;
+
+}
+
+form{
+    border: 4px solid rgb(222, 227, 231);
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    height: 430px;
+    margin-top: 80px;
+    
+    
+    
+}
+
+label{
+
+
+    color: blue;
+    font-family: monospace;
+    font-size: smaller;
+    margin-top: 20px;
+    margin-left: 16px;
+
+
+}
+
+
+
+
+input[type="text"],
+input[type="date"],
+input[type="number"],
+input[type="email"] {
+
+ color: blue;
+ font-family: monospace;
+ width: 250px;
+ margin-top: 10px;
+ padding: 10px;
+ border-radius: 22px;
+ outline: none;
+ border: 1px solid grey;
+ margin-left: 5%;
+
+}
+
+input[type="radio"]{
+    padding:10px ;
+    margin-left: 5%;
+    border: 1px;
+
+}
+
+input[type="range"]{
+    background-color: red;
+    margin-left: 5%;
+}
+select{
+    color: blue;
+    font-family: monospace;
+    width: 270px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 22px;
+    outline: none;
+    border: 1px solid grey;
+    margin-left: 5%;
+
+}
+input[type="submit"]{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 10px;
+    margin-left: 40%;
+
+
+
+}

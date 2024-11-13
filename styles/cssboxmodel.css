@@ -1,0 +1,35 @@
+.container {
+    width: 250px;
+    height: 40px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+
+    background-color: aqua;
+    
+
+    margin-top: 40px;
+    margin-right: 500px;
+    margin-left: 500px;
+   
+
+}
+
+.sub-container {
+    
+    width: 150px;
+    height: 25px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: black;
+    background-color: red;
+    text-align: center;
+    
+    
+    margin-top: 6px;
+    margin-bottom: 7px;
+    margin-left: 50px;
+    padding: 1px 1px 1px 1px;
+
+
+}

@@ -1,0 +1,77 @@
+.container{
+    border: 1px solid black;
+    width: 300px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: black;
+    border-radius: 20px;
+    height: 450px;
+    border-left: inset;
+    border-left-width: 3px;
+
+}
+.team-logo{
+    width: 70px;
+    margin-left: 40%;
+    margin-top: 3%;
+    border-radius: 20px;
+}
+.player-details-container{
+
+
+}
+
+.player-image{
+    width: 150px;
+    margin-left: 10%;
+    margin-top: 3%;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 2%;
+    height: 200px;
+
+}
+.p-country{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: smaller;
+    display: inline;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.p-club{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: smaller;
+    display: inline;
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+.p-position{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: smaller;
+    display: inline;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.p-league{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: smaller;
+    display: inline;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.p-general-ratings{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: smaller;
+    margin-left: 10%;
+    display: inline;
+}
